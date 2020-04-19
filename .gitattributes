@@ -15,4 +15,4 @@
 forEach text eof=LF
 withinEnv text eof=LF
 docker-backup text
-docker-compose-debug eof=LF
+docker-compose-debug eol=lf
