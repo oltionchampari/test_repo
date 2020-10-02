@@ -1,6 +1,6 @@
 {
   "generator-phovea": {
-    "type": "lib",
+    "type": "slib",
     "name": "phovea_core",
     "author": "The Caleydo Team",
     "githubAccount": "phovea",
